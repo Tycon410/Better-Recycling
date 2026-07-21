@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1676,
+      "minecraft:time_since_rest": 2149,
+      "minecraft:walk_one_cm": 7988,
+      "minecraft:total_world_time": 2934,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 2149,
+      "minecraft:jump": 5,
+      "minecraft:time_since_death": 2149,
+      "minecraft:drop": 131
+    },
+    "minecraft:dropped": {
+      "better-recycling:suspicious_substance": 131
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 1,
+      "better-recycling:suspicious_substance": 3
+    }
+  },
+  "DataVersion": 4790
+}
