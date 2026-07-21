@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "minecraft:iron_horse_armor",
+    "minecraft:iron_nautilus_armor",
+    "minecraft:saddle",
+    "minecraft:compass",
+    "minecraft:activator_rail",
+    "minecraft:detector_rail",
+    "minecraft:stonecutter",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:iron_door"
+  ],
+  "result": {
+  "id": "minecraft:iron_ingot"
+  }
+}

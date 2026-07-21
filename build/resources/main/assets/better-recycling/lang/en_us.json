@@ -1,0 +1,28 @@
+{
+  "item.better_recycling.suspicious_substance": "Test Item",
+
+  "item.better_recycling.coal_dust": "Coal Dust",
+  "item.better_recycling.lapis_lazuli_dust": "Lapis Lazuli Dust",
+  "item.better_recycling.amether_dust": "Amether Dust",
+  "item.minecraft.redstone": "Redstone Dust",
+  "item.better_recycling.redstone": "Redstone",
+  "item.additionaladditions:rose_gold_alloy": "Rose Gold Alloy Ingot",
+  "item.better_recycling.rose_gold_alloy_block": "Rose Gold Alloy Block",
+  "item.better_recycling.rose_gold_alloy_nugget": "Rose Gold Alloy Nugget",
+  "item.better_recycling.diamond_dust": "Diamond Dust",
+  "item.better_recycling.netherite_nugget": "Netherite Nugget",
+  "item.better_recycling.obsidian_shard": "Obsidian Shard",
+
+  "item.better_recycling.scrap_iron": "Scrap Iron",
+  "item.better_recycling.a_bundle_of_scrap_iron": "Bundle Of Scrap Iron",
+
+  "item.better_recycling.totem_core": "Totem Core",
+  "item.better_recycling.eatable_enchantment": "Eatable Enchantment",
+  "item.better_recycling.breeze_wind_core": "Breeze Wind Core",
+
+  "item.better_recycling.amether_helmet": "Amether Helmet",
+  "item.better_recycling.amether_chestplate": "Amether Chestplate",
+  "item.better_recycling.amether_leggings": "Amether Leggings",
+  "item.better_recycling.amether_boots": "Amether Boots",
+  "item.better_recycling.amether_horse_armor": "Amether Horse Armor"
+}
