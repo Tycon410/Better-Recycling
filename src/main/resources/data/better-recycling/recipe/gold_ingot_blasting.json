@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:gold_helmet",
+    "minecraft:gold_chestplate",
+    "minecraft:gold_leggings",
+    "minecraft:gold_boots",
+    "minecraft:gold_horse_armor",
+    "minecraft:gold_nautilus_armor",
+    "minecraft:light_weighted_pressure_plate"
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
+}

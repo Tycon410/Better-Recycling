@@ -1,0 +1,32 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "additionaladditions"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:tuff"
+    },
+    "q": {
+      "item": "better-recycling:rose_gold_upgrade_smithing_template"
+    },
+    "a": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "#q#",
+    "#a#",
+    "###"
+  ],
+  "result": {
+    "id": "better-recycling:rose_gold_upgrade_smithing_template",
+    "count": 2
+  }
+}
